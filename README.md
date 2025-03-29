@@ -1,3 +1,4 @@
+![Screenshot 2025-03-29 151559](https://github.com/user-attachments/assets/de78e8ca-3c81-4d19-8f1e-241b62e6422a)
 # Employee Management System
 
 ## Project Description
